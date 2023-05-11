@@ -149,7 +149,7 @@ plt.plot(x_future, y_future, '-', label='Curve fit')
 plt.fill_between(x_future, lower_future, upper_future, alpha=0.3, label='Confidence Range')
 plt.xlabel('Agricultural land (% of land area)')
 plt.ylabel('Arable land (% of land area')
-plt.title('Curve Fitting of Agricultural land and Areable Land in 2015')
+plt.title('Agricultural land and Areable Land in 2015')
 plt.legend()
 plt.show()
 
