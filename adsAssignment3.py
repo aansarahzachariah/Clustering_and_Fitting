@@ -151,9 +151,6 @@ plt.xlabel('Agricultural land (% of land area)')
 plt.ylabel('Arable land (% of land area')
 plt.title('Agricultural land and Areable Land in 2015')
 plt.legend()
-plt.show()
-
-
 
 # Show the plots
 plt.show()
